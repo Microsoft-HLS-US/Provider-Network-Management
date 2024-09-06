@@ -21,10 +21,12 @@ Before downloading, please carefully read the license terms under which this sol
 
 1. Import Solution via Power Apps maker portal.
 2. Publish all customizations. 
-3. Populate data with Data Flow template & data spreadsheet.
-4. Run Notes Migration PowerAutomate flow. 
-5. Create/Authorize connections to resources when prompted. 
-6. Create and apply Security Roles & Field Level Security profile, if appropriate. 
+3. Populate data with Data Flow template & data spreadsheet using Power Query.
+4. Create/Authorize connections to resources when prompted. 
+5. Upload data spreadsheet to OneDrive folder. 
+6. Update Flow to point to excel file in OneDrive folder. 
+7. Run Notes Migration PowerAutomate flow. 
+8. Create and apply Security Roles & Field Level Security profile, if appropriate. 
 
 
 ## License
